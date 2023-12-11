@@ -1,4 +1,4 @@
-package br.com.otavio.springbootadminactuator;
+package br.com.otavio.springbootadminactuator.service;
 
 import br.com.otavio.springbootadminactuator.model.dto.PersonDto;
 import br.com.otavio.springbootadminactuator.model.entity.PersonEntity;
